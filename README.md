@@ -13,16 +13,25 @@ Currently, that technic worked on :
 | Browser | Tested ? | Working ? |
 |---------|:--------:|:---------:|
 |![Firefox](./images/firefox.png)|✅          |✅          |
-|![Chrome](./images/chrome.png)|❌         |❔          |
+|![Chrome](./images/chrome.png)|✅         |✅          |
 |![Safari](./images/safari.png)|❌         |❔          |
 
 ---
 
 ## Usage
 
-I'll do it next time
+To use this script, clone this repo, and run `./main.py`.
+
+Then, follow what the program ask you to do.
+
+## Installation
+
+For now, this project is not available on any apt-get, snap or anything.
+
+To install it, simply run `./install.sh`
 
 ## TODO
 
 - [ ] Add more browsers
 - [ ] Test it on browsers
+- [ ] Add the code itself lol
